@@ -1,0 +1,39 @@
+/* basic css  */
+body{
+    margin: 0;
+    padding: 0;
+
+}
+#login-area{
+    padding: 20px;
+}
+.submit-area{
+    box-shadow: 5px 5px 5px 10px gray;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 40px 70px;
+}
+#login-area h2{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+#login-area h4{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+input{
+    margin-bottom:  15px;
+    height: 50px;
+}
+#loginBtn{
+    padding: 6px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    width: 100%;
+}
+
+/* login area end */
